@@ -2,7 +2,7 @@
 Below are the links to the problems solved each day...
 
 ## Day 3
--[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ## Day 2
 - [Count Subarrays](https://www.codechef.com/START120C/problems/COUNTSUB343)
