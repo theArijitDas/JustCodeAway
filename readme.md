@@ -1,6 +1,11 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 4
+- [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Qpwoeirut And The City](https://codeforces.com/problemset/problem/1706/C)
+
 ## Day 3
 - [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
