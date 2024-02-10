@@ -1,6 +1,11 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 5
+- [3Sum](https://leetcode.com/problems/3sum/)
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
 ## Day 4
 - [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
