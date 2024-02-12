@@ -1,8 +1,11 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 7
+- [Simplify Path](https://leetcode.com/problems/simplify-path/)
+
 ## Day 6
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1172346925/)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Day 5
 - [3Sum](https://leetcode.com/problems/3sum/)
