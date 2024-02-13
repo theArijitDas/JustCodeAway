@@ -1,6 +1,12 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 8
+- [Recovering a Small String](https://codeforces.com/contest/1931/problem/A)
+- [Make Equal](https://codeforces.com/contest/1931/problem/B)
+- [Make Equal Again](https://codeforces.com/contest/1931/problem/C)
+- [Divisible Pairs](https://codeforces.com/contest/1931/problem/D)
+
 ## Day 7
 - [Simplify Path](https://leetcode.com/problems/simplify-path/)
 
