@@ -1,6 +1,13 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 9
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- [The Man Code](https://www.codechef.com/problems/MANCODE)
+- [Anti Adjacent Swaps](https://www.codechef.com/problems/ANADSW)
+- [Caesar Cipher Lite](https://www.codechef.com/problems/CAESARLITE)
+- [Frequal](https://www.codechef.com/problems/FREEQ)
+
 ## Day 8
 - [Recovering a Small String](https://codeforces.com/contest/1931/problem/A)
 - [Make Equal](https://codeforces.com/contest/1931/problem/B)
