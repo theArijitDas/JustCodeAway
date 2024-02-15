@@ -1,6 +1,10 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 10
+- [Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A)
+- [Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B)
+
 ## Day 9
 - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [The Man Code](https://www.codechef.com/problems/MANCODE)
