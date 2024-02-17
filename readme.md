@@ -1,6 +1,11 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 12
+- [Building Roads](https://cses.fi/problemset/task/1666/)
+- [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+
 ## Day 11
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
