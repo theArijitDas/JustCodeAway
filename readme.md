@@ -1,6 +1,11 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 13
+- [Thorns and Coins](https://codeforces.com/contest/1932/problem/A)
+- [Chaya Calendar](https://codeforces.com/contest/1932/problem/B)
+- [LR-remainders](https://codeforces.com/contest/1932/problem/C)
+
 ## Day 12
 - [Building Roads](https://cses.fi/problemset/task/1666/)
 - [Course Schedule](https://leetcode.com/problems/course-schedule/)
