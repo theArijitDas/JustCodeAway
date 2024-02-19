@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 14
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+
 ## Day 13
 - [Thorns and Coins](https://codeforces.com/contest/1932/problem/A)
 - [Chaya Calendar](https://codeforces.com/contest/1932/problem/B)
