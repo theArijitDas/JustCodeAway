@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 17
+- [Binary Search](https://leetcode.com/problems/binary-search/)
+
 ## Day 16
 - [Car Fleet](https://leetcode.com/problems/car-fleet/)
 
