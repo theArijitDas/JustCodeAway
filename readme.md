@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 19
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
 ## Day 18
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
