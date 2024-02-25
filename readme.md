@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 20
+- [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
 ## Day 19
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
