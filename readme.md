@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 21
+- [Search in Rotated Sorted Array](leetcode.com/problems/search-in-rotated-sorted-array/)
+
 ## Day 20
 - [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
