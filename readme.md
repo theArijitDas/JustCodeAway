@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 23
+- Quick Select algorithm
+
 ## Day 22
 - [Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
