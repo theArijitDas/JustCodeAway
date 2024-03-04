@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 27
+ - [Longest Repeating Character Replacement](https://leetcode.com/problems/permutation-in-string/)
+
 ## Day 26
  - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
