@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 28
+ - [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
+
 ## Day 27
  - [Longest Repeating Character Replacement](https://leetcode.com/problems/permutation-in-string/)
 
