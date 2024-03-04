@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 24
+ - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
 ## Day 23
 - Quick Select algorithm
 
