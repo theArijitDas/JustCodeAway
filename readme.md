@@ -1,6 +1,10 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 29
+ - [Entertainment in MAC](https://codeforces.com/contest/1935/problem/A)
+ - [Informatics in MAC](https://codeforces.com/contest/1935/problem/B)
+
 ## Day 28
  - [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
 
