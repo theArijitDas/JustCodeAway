@@ -1,24 +1,30 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 30
+- [Binary Parity](https://www.codechef.com/START124C/problems/BINPARITY)
+- [Cricket Tournament](https://www.codechef.com/START124C/problems/CRICKETUDYAM)
+- [Table Strength](https://www.codechef.com/problems/STRONGTABLE)
+- [Make It One](https://www.codechef.com/START124C/problems/MAKE_IT_ONE)
+
 ## Day 29
- - [Entertainment in MAC](https://codeforces.com/contest/1935/problem/A)
- - [Informatics in MAC](https://codeforces.com/contest/1935/problem/B)
+- [Entertainment in MAC](https://codeforces.com/contest/1935/problem/A)
+- [Informatics in MAC](https://codeforces.com/contest/1935/problem/B)
 
 ## Day 28
- - [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
+- [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
 
 ## Day 27
- - [Longest Repeating Character Replacement](https://leetcode.com/problems/permutation-in-string/)
+- [Longest Repeating Character Replacement](https://leetcode.com/problems/permutation-in-string/)
 
 ## Day 26
- - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## Day 25
- - [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Day 24
- - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 ## Day 23
 - Quick Select algorithm
