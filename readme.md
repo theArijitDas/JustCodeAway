@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 31
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
+
 ## Day 30
 - [Binary Parity](https://www.codechef.com/START124C/problems/BINPARITY)
 - [Cricket Tournament](https://www.codechef.com/START124C/problems/CRICKETUDYAM)
