@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 32
+- [To Become Max](https://codeforces.com/problemset/problem/1856/C)
+
 ## Day 31
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 
