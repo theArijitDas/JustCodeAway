@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 34
+- [Add One](https://codeforces.com/contest/1513/problem/C)
+
 ## Day 33
 - [String Bags](https://atcoder.jp/contests/abc344/tasks/abc344_d)
 
