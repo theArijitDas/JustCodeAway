@@ -1,6 +1,12 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 35
+- [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A)
+- [Rudolf and 121](https://codeforces.com/contest/1941/problem/B)
+- [Rudolf and the Ugly String](https://codeforces.com/contest/1941/problem/C)
+- [Rudolf and the Ball Game](https://codeforces.com/contest/1941/problem/D)
+
 ## Day 34
 - [Add One](https://codeforces.com/contest/1513/problem/C)
 
