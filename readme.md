@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 36
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
+
 ## Day 35
 - [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A)
 - [Rudolf and 121](https://codeforces.com/contest/1941/problem/B)
