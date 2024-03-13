@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 37
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
 ## Day 36
 - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 
