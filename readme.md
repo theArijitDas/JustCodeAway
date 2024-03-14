@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 38
+- [Target Sum](https://leetcode.com/problems/target-sum/)
+
 ## Day 37
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
