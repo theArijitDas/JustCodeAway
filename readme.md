@@ -1,6 +1,11 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 39
+- [K-periodic Garland](https://codeforces.com/problemset/problem/1353/E)
+- [Special Characters](https://codeforces.com/contest/1948/problem/A)
+- [Array Fix](https://codeforces.com/contest/1948/problem/B)
+
 ## Day 38
 - [Target Sum](https://leetcode.com/problems/target-sum/)
 
