@@ -1,6 +1,12 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 40
+- [The Third Letter](https://codeforces.com/contest/1850/problem/H)
+- [Destroying Bridges](https://codeforces.com/contest/1944/problem/A)
+- [Equal XOR](https://codeforces.com/contest/1944/problem/B)
+- [MEX Game 1](https://codeforces.com/contest/1944/problem/C)
+
 ## Day 39
 - [K-periodic Garland](https://codeforces.com/problemset/problem/1353/E)
 - [Special Characters](https://codeforces.com/contest/1948/problem/A)
