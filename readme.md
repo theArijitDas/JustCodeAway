@@ -1,6 +1,11 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 41
+- [Boris and His Amazing Haircut](https://codeforces.com/contest/1779/problem/D)
+- [Mad City](https://codeforces.com/contest/1873/problem/H)
+- [Solve The Maze](https://codeforces.com/problemset/problem/1365/D)
+
 ## Day 40
 - [The Third Letter](https://codeforces.com/contest/1850/problem/H)
 - [Destroying Bridges](https://codeforces.com/contest/1944/problem/A)
