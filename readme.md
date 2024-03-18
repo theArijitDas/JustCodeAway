@@ -1,6 +1,13 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 42
+- Prim's Algorithm
+- Krushkal's Algorithm
+- Dijkstra's Algorithm
+- Quick Sort
+- Merger Sort
+
 ## Day 41
 - [Boris and His Amazing Haircut](https://codeforces.com/contest/1779/problem/D)
 - [Mad City](https://codeforces.com/contest/1873/problem/H)
