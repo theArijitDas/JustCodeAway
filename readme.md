@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+# Day 44
+- [Ancient Berland Roads](https://www.codechef.com/problems/ABROADS)
+
 ## Day 43
 - [Remove the Brackets](https://codeforces.com/problemset/problem/1787/C)
 
