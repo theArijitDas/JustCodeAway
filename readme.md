@@ -1,6 +1,15 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 45
+- [Say No to Palindromes](https://codeforces.com/contest/1555/problem/D)
+- [Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1)
+- [Potions (Hard Version)](https://codeforces.com/contest/1526/problem/C2)
+- [Dice Game 3](https://www.codechef.com/problems/DICEGAME3)
+- [Sale](https://www.codechef.com/problems/FINALSALE)
+- [Permutation Disturbance](https://www.codechef.com/problems/PERDIS)
+- [Freedom](https://www.codechef.com/problems/TRIO)
+
 # Day 44
 - [Ancient Berland Roads](https://www.codechef.com/problems/ABROADS)
 

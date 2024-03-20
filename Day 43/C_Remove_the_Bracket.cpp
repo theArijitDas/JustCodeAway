@@ -50,8 +50,7 @@ int main(){
 
         dp.clear();
 
-        ll ans = min4(solve(n-1, 0, a[n]), solve(n-1, 1, a[n]), 
-                    solve(n-1, 2, a[n]), solve(n-1, 3, a[n]));
+        ll ans = min(solve(n-1, 0, a[n]), solve(n-1, 1, a[n]));
         cout<<ans<<"\n";
     }
 
