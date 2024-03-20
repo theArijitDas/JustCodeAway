@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 43
+- [Remove the Brackets](https://codeforces.com/problemset/problem/1787/C)
+
 ## Day 42
 - Prim's Algorithm
 - Krushkal's Algorithm
