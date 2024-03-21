@@ -1,6 +1,12 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 46
+- [The Number of Imposters](https://codeforces.com/problemset/problem/1594/D)
+- [Rudolf and Subway](https://codeforces.com/problemset/problem/1941/G)
+- [Array Description](https://cses.fi/problemset/task/1746/)
+- [Cover it!](https://codeforces.com/problemset/problem/1176/E)
+
 ## Day 45
 - [Say No to Palindromes](https://codeforces.com/contest/1555/problem/D)
 - [Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1)
