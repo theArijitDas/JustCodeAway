@@ -1,6 +1,12 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 47
+- [Dice Combinations](https://cses.fi/problemset/task/1633)
+- [Minimizing Coins](https://cses.fi/problemset/task/1634)
+- [Median of an Array](https://codeforces.com/contest/1946/problem/A)
+- [Maximum Sum](https://codeforces.com/contest/1946/problem/B)
+
 ## Day 46
 - [The Number of Imposters](https://codeforces.com/problemset/problem/1594/D)
 - [Rudolf and Subway](https://codeforces.com/problemset/problem/1941/G)
