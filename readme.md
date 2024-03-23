@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 48
+- [Kosaraju's Algorithm](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
+
 ## Day 47
 - [Dice Combinations](https://cses.fi/problemset/task/1633)
 - [Minimizing Coins](https://cses.fi/problemset/task/1634)
