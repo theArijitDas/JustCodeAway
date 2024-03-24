@@ -1,6 +1,9 @@
 # JustCodeAway
 Below are the links to the problems solved each day...
 
+## Day 49
+- [Longest Flight Route](https://cses.fi/problemset/task/1680/)
+
 ## Day 48
 - [Kosaraju's Algorithm](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
 

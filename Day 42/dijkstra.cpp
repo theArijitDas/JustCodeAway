@@ -32,7 +32,7 @@ void dijkstra(vector<vector<pair<int, int> > > &graph, int s, int n){
     while(!pq.empty()){
         pair<int, int> p = pq.top(); pq.pop();
         int u = p.second;
-        if (distance[u] >= p.first){
+        if (distance[u] == p.first){
             for(int i = 0; i<graph[u].size(); i++){
                 int v = graph[u][i].second;
                 int w = graph[u][i].first;
